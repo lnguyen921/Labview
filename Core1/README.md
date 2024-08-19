@@ -1,4 +1,4 @@
-Table of contents for LabView Lab Topics:
+Table of contents for LabView Core 1 Training Lab Topics:
   1. Using timming function to reduce load on CPU.
   2. Debugging Tools
   3. Executing using Loops
