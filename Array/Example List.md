@@ -4,4 +4,7 @@
 2. Waveform chart example
    - Source: https://www.youtube.com/watch?v=k4roJBzHjCE
   
-3. 
+3. Single channel and N-Channel acquisition data type
+4. 1 Dimension and 2 Dimension Array
+5. Creating 2D array programatically
+6. 
