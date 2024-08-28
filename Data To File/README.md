@@ -8,4 +8,8 @@ Write Data to File
 6. Offline Processing: Analayzing data from file in LabView
 7. Comparing File Format
 
+Special Case Data
+1. Clusters
+2. 
+
 
