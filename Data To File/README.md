@@ -9,7 +9,8 @@ Write Data to File
 7. Comparing File Format
 
 Special Case Data
-1. Clusters
-2. 
+1. Clusters with different data type. Creating, reading and modifying a cluster.
+2. Cluster I/O to group data
+3. Error cluster, bundle and bundle functions.
 
 
