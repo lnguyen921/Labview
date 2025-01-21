@@ -10,6 +10,12 @@
 4. Vision project written for myRIO: 
   Link: https://education.ni.com/teach/resources/208
 
+5. Labview tutorial 
+   Link: https://www.halvorsen.blog/documents/tutorials/tutorials.php
+
+6. Program arduino with Labview:
+   Link: https://www.youtube.com/watch?v=RGRhIQneO6w
+
 
 Other Topics
   1. brewing system controller
